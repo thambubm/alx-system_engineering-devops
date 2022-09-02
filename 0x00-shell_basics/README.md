@@ -1,1 +1,1 @@
-command for listing details
+command to list more files
