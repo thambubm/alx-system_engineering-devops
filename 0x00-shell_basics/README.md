@@ -1,1 +1,1 @@
-how to go to home directory
+command for listing details
