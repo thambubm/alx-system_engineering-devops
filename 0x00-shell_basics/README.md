@@ -1,1 +1,1 @@
-show current working directory
+how to go to home directory
