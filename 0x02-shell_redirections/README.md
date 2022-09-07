@@ -1,1 +1,1 @@
-Opening two files
+Display last 10 lines
