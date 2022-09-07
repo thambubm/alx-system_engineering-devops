@@ -1,1 +1,1 @@
-Display a file
+Opening two files
